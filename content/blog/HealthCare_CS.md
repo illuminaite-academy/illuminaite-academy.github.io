@@ -227,7 +227,6 @@ you can build on this simple project by adding more functionality, such
 as tracking patient symptoms over time or integrating more complex
 decision trees.
 
-\## Conclusion: Blurring the Lines Between Health and Tech
 
 The fusion of health care and computer science has unlocked new
 possibilities in improving both patient outcomes and the efficiency of
