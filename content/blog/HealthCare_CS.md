@@ -1,3 +1,10 @@
+---
+title: "Computer Science Applications in Health Care"
+tags: ["tag1", "tag2", "tag3"]
+description: "A brief description of the blog post."
+author: "Doga Baskan"
+---
+
 # Exploring the Intersection of Health Care and Computer Science
 
 In recent years, the fusion of *Health Care* and *Computer
