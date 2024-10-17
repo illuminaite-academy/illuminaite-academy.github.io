@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Illuminaite Content! on Illuminaite</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Illuminaite Content! on Illuminaite</description>
+    <title>Health Care on Illuminaite</title>
+    <link>http://localhost:1313/tags/health-care/</link>
+    <description>Recent content in Health Care on Illuminaite</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/health-care/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Science Applications in Health Care</title>
       <link>http://localhost:1313/blog/healthcarecs/</link>
