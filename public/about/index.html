@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8" />
+  <title>About Illuminaite</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  
+  <meta name="author" content="Illuminaite Academy">
+  
+  <meta name="generator" content="Hugo 0.135.0">
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="http://localhost:1313/css/bootstrap.min.css" />
+  <!-- font-awesome -->
+  <link rel="stylesheet" href="http://localhost:1313/font-awesome/css/font-awesome.min.css" />
+  <!-- Main Stylesheets -->
+  <link href="http://localhost:1313/scss/style.min.css" rel="stylesheet" />
+
+  <link rel="shortcut icon" href="http://localhost:1313/images/logo.png" type="image/x-icon" />
+  <link rel="icon" href="http://localhost:1313/" type="image/x-icon" />
+
+  <!-- Load jQuery and Bootstrap first -->
+  <script src="http://localhost:1313/js/vendor.min.js"></script>
+  <script src="http://localhost:1313/js/script.min.js"></script>
+
+  <!-- Header and Footer loading script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Load header
+      fetch('/header.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('header').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading header:', error));
+
+      // Load footer
+      fetch('/footer.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('footer').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading footer:', error));
+    });
+  </script>
+</head>
+<body>
+  <div id="header"></div>
+
+  <main>
+    <section class="site-blog details">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <article class="site-blog-details">
+              <h2 class="blog-title">About Illuminaite</h2>
+              <img class="feature-image" src="http://localhost:1313/images/blog/logo.png" alt="about-feature-image">
+              
+              <h2>Our Mission</h2>
+              <p>At Illuminaite Academy, we believe that computer science and artificial intelligence education should be accessible to everyone. Our mission is to demystify complex technical concepts and create a vibrant community of interdisciplinary learners.</p>
+              
+              <h2>Who We Are</h2>
+              <p>We are a team of passionate educators, technologists, and innovators committed to breaking down barriers in tech education. Our diverse team brings together expertise from various fields to create comprehensive, accessible learning experiences.</p>
+
+              <div class="highlight">
+                <div class="row text-center">
+                  <div class="col-md-3">
+                    <div class="stat-item">
+                      <h3>300+</h3>
+                      <p>Participants</p>
+                    </div>
+                  </div>
+                  <div class="col-md-3">
+                    <div class="stat-item">
+                      <h3>40+</h3>
+                      <p>Cities</p>
+                    </div>
+                  </div>
+                  <div class="col-md-3">
+                    <div class="stat-item">
+                      <h3>10+</h3>
+                      <p>Countries</p>
+                    </div>
+                  </div>
+                  <div class="col-md-3">
+                    <div class="stat-item">
+                      <h3>15+</h3>
+                      <p>Team Members</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <h2>Our Values</h2>
+              <ul>
+                <li><strong>Accessibility:</strong> Making technical education available to everyone</li>
+                <li><strong>Clarity:</strong> Breaking down complex concepts into understandable pieces</li>
+                <li><strong>Community:</strong> Building a supportive network of learners</li>
+                <li><strong>Innovation:</strong> Staying current with the latest technological advances</li>
+                <li><strong>Inclusivity:</strong> Welcoming learners from all backgrounds</li>
+              </ul>
+
+              <h2>Get Involved</h2>
+              <p>Join our community and be part of the journey to make tech education more accessible and engaging.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="site-cta" style='background-image: url("http://localhost:1313/");'>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h1 class="site-cta-title">LET'S WORK TOGETHER</h1>
+            <ul class="site-cta-buttons">
+              <li>
+                <a href="http://localhost:1313/contact" class="btn btn-secondary">
+                  <span class="btn-area">
+                    <span data-text="Submit Query">Submit Query</span>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="http://localhost:1313/portfolio" class="btn btn-primary">
+                  <span class="btn-area">
+                    <span data-text="Not Convinced">Not Convinced</span>
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+</main>
+
+<!-- Footer will be loaded here -->
+<div id="footer"></div>
+</body>
+</html>
