@@ -21,13 +21,17 @@ name = "Team"
 url = "team"
 weight = 3
 [[menu.nav]]
+name = "Events"
+url = "events"
+weight = 4
+[[menu.nav]]
 name = "Blog"
 url = "blog"
-weight = 4
+weight = 5
 [[menu.nav]]
 name = "Contact Us"
 url = "contact"
-weight = 5
+weight = 6
 
 # Site Params
 [params]
@@ -87,7 +91,7 @@ read_more = "read more"
 enable = true
 title = "OUR RECENT WORKS"
 subtitle = "Crafting experiences and seeking to make the complex clear & beautiful."
-view_project = "view project"
+view_project = "Learn More"
 more_works = "MORE WORKS"
 scroll_down = "scroll down"
 
