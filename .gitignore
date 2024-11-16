@@ -33,4 +33,5 @@ coverage/
 *.swp
 *.bak
 
-.public/
+# Ignore public / build files
+public/
