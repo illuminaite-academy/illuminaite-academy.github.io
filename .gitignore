@@ -32,3 +32,5 @@ coverage/
 *.tmp
 *.swp
 *.bak
+
+.public/
