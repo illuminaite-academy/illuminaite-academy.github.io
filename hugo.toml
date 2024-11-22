@@ -30,13 +30,13 @@ url = "blog"
 weight = 5
 [[menu.nav]]
 name = "Contact Us"
-url = "contact"
+url = "mailto:illuminaiteacademy@gmail.com"
 weight = 6
 
 # Site Params
 [params]
 logo = "images/logo.png"
-logo_footer = "images/logo.png"
+logo_footer = "images/logo-footer.png"
 favicon_shortcut_icon = "images/logo.png"
 custom_stylesheets = []                      # [ "scss/my_1.scss", "scss/my_2.scss" ]
 dateFormat = "26 FEB 1994"
@@ -68,7 +68,7 @@ title = "Web Design"
 [params.navAction]
 status = true
 name = "Contact Us"
-url = "contact"
+url = "mailto:illuminaiteacademy@gmail.com"
 
 
 # Banner Section
@@ -82,7 +82,7 @@ tagline = """
 primary_button = "See Our Blog"
 primary_button_url = "blog"
 secondary_button = "Connect with Us"
-secondary_button_url = "contact"
+secondary_button_url = "mailto:illuminaiteacademy@gmail.com"
 
 [params.blog]
 read_more = "read more"
@@ -99,7 +99,7 @@ scroll_down = "scroll down"
 enable = true
 title = "LET’S WORK TOGETHER"
 primary_button = "Submit Query"
-primary_button_url = "contact"
+primary_button_url = "mailto:illuminaiteacademy@gmail.com"
 secondary_button = "Not Convinced"
 secondary_button_url = "portfolio"
 
@@ -125,7 +125,7 @@ name = "Blog"
 url = "blog"
 [[params.footer.sitemap.link]]
 name = "Contact"
-url = "contact"
+url = "mailto:illuminaiteacademy@gmail.com"
 # Footer Social Media
 [params.footer.social]
 title = "Social Media"

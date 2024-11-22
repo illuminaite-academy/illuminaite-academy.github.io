@@ -2,7 +2,7 @@
 title: "Read csv file"
 date: 2024-10-25 # YYYY-MM-DD
 author: "Napasorn Kao-ian"
-image: images/read_csv_blog.png
+image: images/blog/read_csv_blog.png
 summary: "How to read csv file with Matplotlib"
 ---
 
