@@ -106,20 +106,20 @@ secondary_button_url = "portfolio"
 [params.footer]
 params.footer.qr_print = false
 # Footer Contact Info
-[params.footer.contactInfo]
-title = "Contact Info"
-address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-phone = "409-896-1444"
-email = "info@roxo.co"
+# [params.footer.contactInfo]
+# title = "Contact Info"
+# address = "713 Elmwood St.<br>Prior Lake, MN 55372"
+# phone = "409-896-1444"
+# email = "info@roxo.co"
 # Footer Sitemap
 [params.footer.sitemap]
 title = "Sitemap"
 [[params.footer.sitemap.link]]
-name = "About Company"
+name = "About Us"
 url = "about"
 [[params.footer.sitemap.link]]
-name = "Projects"
-url = "portfolio"
+name = "Events"
+url = "events"
 [[params.footer.sitemap.link]]
 name = "Blog"
 url = "blog"
@@ -130,20 +130,17 @@ url = "mailto:illuminaiteacademy@gmail.com"
 [params.footer.social]
 title = "Social Media"
 [[params.footer.social.link]]
-name = "Medium"
-url = "#"
-[[params.footer.social.link]]
-name = "Behance"
-url = "#"
-[[params.footer.social.link]]
-name = "Dribbble"
-url = "#"
-[[params.footer.social.link]]
 name = "Instagram"
-url = "#"
+url = "https://www.instagram.com/illuminaiteacademy/"
+[[params.footer.social.link]]
+name = "Discord"
+url = "https://discord.gg/Anf6JcDyNt"
+[[params.footer.social.link]]
+name = "Mailing List"
+url = "https://forms.gle/29s7EBYi2cprWFER8"
 # Footer Service
 [params.footer.service]
-title = "We help brands:"
-description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+title = "illuminaite academy"
+description = "demystifying the world of CS & AI<br>building a network of interdisciplinary<br>students & opportunities "
 [params.footer.back_to_top]
 description = "I want to <br> visit again"
