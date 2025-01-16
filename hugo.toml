@@ -30,7 +30,7 @@ url = "blog"
 weight = 5
 [[menu.nav]]
 name = "Contact Us"
-url = "mailto:illuminaiteacademy@gmail.com"
+url = "contact"
 weight = 6
 
 # Site Params
