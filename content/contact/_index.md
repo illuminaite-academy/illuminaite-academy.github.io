@@ -14,7 +14,7 @@ sections:
 
   - image: /images/blog/logo.png
     statement: "Our Mailing List"
-    link: "https://docs.google.com/forms/u/2/d/1OzkaOqUDUZYbQlnOiqvoXVb9GZJOj0H7AqnIGyqUmP0/edit?usp=forms_home&ths=true"
+    link: "https://forms.gle/R6s3RvEVucchmqmh6"
     description: "Follow our mailing list to stay updated on the latest news and events."
 
   - image: /images/blog/logo.png
