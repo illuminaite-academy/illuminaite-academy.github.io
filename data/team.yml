@@ -36,10 +36,10 @@ members  :
     designation : Internal Outreach Director
     bio         : 1st year Life Science, hoping to go into Bioinformatics. Interested in ML and AI applications in the medical field.
 
-  - image       : images/logo-square.png
+  - image       : images/team/helia.JPG
     name        : Helia
     designation : Finance Director
-    bio         : Interested in CS and AI!
+    bio         : Computer Science Specialist interested in AI, particularly its applications in healthcare.
 
   - image       : images/team/delia.png
     name        : Delia Pan
