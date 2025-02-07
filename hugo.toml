@@ -29,9 +29,13 @@ name = "Blog"
 url = "blog"
 weight = 5
 [[menu.nav]]
+name = "Hackathon"
+url = "hackathon"
+weight = 6
+[[menu.nav]]
 name = "Contact Us"
 url = "contact"
-weight = 6
+weight = 10
 
 # Site Params
 [params]
