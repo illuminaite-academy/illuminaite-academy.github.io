@@ -1,2 +1,20 @@
 ---
+banner_image: "/images/hackathon/temp-hackathon-banner.png"
+theme: "Theme: co-existence with AI"
+hackathon_information: "About the Hackathon"
+hackathon_description: "This will be the 3rd iteration of our flagship AI Ethics Hackathon. Previously held virtually, we invited students from around the world of all technical levels to work in a team, and develop an innovative, ethical, proposal for a real-world problem. This year will be the first in-person hackathon, and your support would make a tremendous difference in its success! During the one-day event, students will work with their team in a limited time frame and leave the event with new connections made, opportunities to chat with companies, clubs, and professors, a finished proposal and prototype, and a unique experience gained. This hackathon is set to take place on March 8, 2025 in person at the University of Toronto. Students with no prior experience are guided through the project in various stages, from ideation, solution proposal, ethics evaluation, to pitch presentations. This year, we also added an asynchronous track, where students with passions in creative media may submit writing and art pieces ahead of time, to be published on our own and collaborators’ social and publishing outlets."
+clubs_title: "About the Clubs"
+clubs_description: "Clubs Description"
+clubs:
+  - title: "Illuminaite"
+    description: "We believe everyone, no matter what major, should have the liberty to use these powerful technologies efficiently and ethically. we aim to lower the barriers of entry into the tech field through hosting accessible, hybrid events and growing a deeply connected online community. "
+    logo: "/images/logo.png"
+  - title: "CSSU"
+    description: "The Computer Science Student Union (CSSU) represents over 4300 Computer Science students who are either taking a Computer Science course or are part of a Computer Science program at the University of Toronto St. George campus. We are a student-governed body that receives funding from the Arts & Science Students’ Union, the Department of Computer Science, and our union store."
+    logo: "/images/hackathon/cssu_icon.png"
+  - title: "WICS"
+    description: "University of Toronto Women in Computer Science is a student-led organization dedicated to supporting all computer science students in their academic and professional careers."
+    logo: "/images/hackathon/wics_logo.PNG"
+adgenda_image: "/images/hackathon/adgenda.png"
+signup_link: "https://google.com"
 ---
