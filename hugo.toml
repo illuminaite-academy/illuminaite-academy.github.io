@@ -99,6 +99,11 @@ view_project = "Learn More"
 more_works = "MORE WORKS"
 scroll_down = "scroll down"
 
+[params.event_banner]
+enable = true
+image_source = "images/hackathon/hackathon-banner.png"
+image_url = "https://illuminaite-academy.github.io/hackathon"
+
 [params.call_to_action]
 enable = true
 title = "let's work together!"
