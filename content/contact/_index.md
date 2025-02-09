@@ -2,6 +2,11 @@
 title: "About Us"
 date: 2018-07-12T18:19:33+06:00
 sections:  
+  - image: /images/icons/mailing_list.svg
+    statement: "Our Email"
+    link: "mailto:illuminaiteacademy@gmail.com"
+    description: "Email us at illuminaiteacademy@gmail.com for any questions or inquiries."
+
   - image: /images/icons/instagram.svg
     statement: "Our Instagram"
     link: "https://www.instagram.com/illuminaiteacademy/"
@@ -9,7 +14,7 @@ sections:
 
   - image: /images/icons/discord.svg
     statement: "Our Discord"
-    link: "https://discord.gg/654YVqj2PE"
+    link: "https://discord.gg/BjNqZrdSTA"
     description: "Join our Discord server to connect with other members and stay updated on our events and workshops."
 
   - image: /images/icons/mailing_list.svg
