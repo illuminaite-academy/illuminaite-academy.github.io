@@ -1,6 +1,6 @@
 ---
 banner_image: "/images/hackathon/hackathon-banner.png"
-theme: "Theme: Co-Existence With AI"
+theme: "Theme: Co-Existence With AI <br> Subthemes: AI in Every Day Life, Invisible AI, AI in Healthcare"
 hackathon_information: "About the Hackathon"
 hackathon_description: "This will be the 3rd iteration of our flagship AI Ethics Hackathon. Previously held virtually, we invited students from around the world of all technical levels to work in a team, and develop an innovative, ethical, proposal for a real-world problem. This year will be the first in-person hackathon, and your support would make a tremendous difference in its success! During the one-day event, students will work with their team in a limited time frame and leave the event with new connections made, opportunities to chat with companies, clubs, and professors, a finished proposal and prototype, and a unique experience gained. This hackathon is set to take place on March 8, 2025 in person at the University of Toronto. Students with no prior experience are guided through the project in various stages, from ideation, solution proposal, ethics evaluation, to pitch presentations. This year, we also added an asynchronous track, where students with passions in creative media may submit writing and art pieces ahead of time, to be published on our own and collaborators’ social and publishing outlets. 
 <br> <br> 
