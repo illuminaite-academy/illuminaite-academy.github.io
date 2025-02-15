@@ -73,8 +73,8 @@ team:
         image: "/images/team/shiley.jpg"
         clubs: [/images/logo-square.png]
       - name: "Doga"
-        bio: "I'm interested in AI and its applications."
-        image: "images/logo-square.png"
+        bio: "I am a third year Engineering Science in Machine Intelligence. I am deeply interested in biomedical and artistic applications of AI!"
+        image: "images/hackathon/team/doga.png"
         clubs: [/images/logo-square.png]
   - title: "Industry Outreach Team"
     members:
