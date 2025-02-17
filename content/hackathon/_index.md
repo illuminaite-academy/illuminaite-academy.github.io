@@ -15,6 +15,20 @@ You'll have the opportunity to:
 <li>Gain experience in pitching business ideas!</li>
 </ul>
 Sign up now to secure a spot in this unique hackathon:"
+guests_information: "Industry and Academic Guests"
+guests_description: "Calling industry/academic guests and mentors to join us in the networking session from 10am-noon on March 8th!
+<br> <br> 
+As an industry/academic guest, you will get the opportunity to chat with university students who are looking to learn more about your academic/ career experiences. It will be a very causal networking setting with refreshments provided. You are welcome to bring company /lab merch to give out to students as part of the networking session!
+<br> <br> 
+Mentors are there to support students during the \"hacking\" portion of the day in the afternoon. You will get a chance to provide students with suggestions for their ideas, helping them unblock and make progress throughout the hackathon. No coding experience is needed from the mentor, as we are a prototype, ethics, and business pitch-only hackathon!
+<br> <br> 
+Guests and mentors are only required to attend during the allocated times, not for the whole day.
+<br> <br> 
+Industry/academic guests should arrive before 10am for our networking session from 10am-noon (lunch will be provided)
+Mentors can choose to arrive and help out the students with their hackathon \"hacking\" portion for an hour between 1-4pm.
+<br> <br> 
+Please check out the signup form for more info!"
+guests_signup_link: "https://forms.gle/NyEQv9QDYCnELa888"
 clubs_title: "About the Clubs"
 clubs_description: "Clubs Description"
 clubs:
@@ -59,8 +73,8 @@ team:
         image: "/images/team/shiley.jpg"
         clubs: [/images/logo-square.png]
       - name: "Doga"
-        bio: "I'm interested in AI and its applications."
-        image: "images/logo-square.png"
+        bio: "I am a third year Engineering Science in Machine Intelligence. I am deeply interested in biomedical and artistic applications of AI!"
+        image: "images/hackathon/team/doga.png"
         clubs: [/images/logo-square.png]
   - title: "Industry Outreach Team"
     members:
