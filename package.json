@@ -6,15 +6,16 @@
   "main": "src/index.tsx",
   "module": "src/index.tsx",
   "scripts": {
-    "dev": "bun --hot src/index.tsx",
-    "start": "NODE_ENV=production bun src/index.tsx",
-    "build": "bun run build.ts",
-    "prepare": "husky"
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
   },
   "dependencies": {
     "bun-plugin-tailwind": "^0.0.14",
-    "react": "^19",
-    "react-dom": "^19",
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "tailwindcss": "^4.0.6"
   },
   "devDependencies": {
