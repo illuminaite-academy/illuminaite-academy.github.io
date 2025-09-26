@@ -1,4 +1,0 @@
-[submodule "themes/illuminaite"]
-	path = themes/illuminaite
-	url = https://github.com/illuminaite-academy/illuminaite-hugo.git
-	branch = master
