@@ -1,10 +1,10 @@
-import About from "@/components/about";
-import Contact from "@/components/contact";
-import Footer from "@/components/footer";
-import Hero from "@/components/hero";
-import Impact from "@/components/impact";
-import Initiatives from "@/components/initiatives";
-import Navbar from "@/components/navbar";
+import About from "@/components/sections/about";
+import Contact from "@/components/sections/contact";
+import Footer from "@/components/sections/footer";
+import Hero from "@/components/sections/hero";
+import Impact from "@/components/sections/impact";
+import Initiatives from "@/components/sections/initiatives";
+import Navbar from "@/components/sections/navbar";
 import '@/styles/global.css'
 
 export default function Main() {
