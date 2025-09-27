@@ -5,11 +5,11 @@ import Hero from "@/components/hero";
 import Impact from "@/components/impact";
 import Initiatives from "@/components/initiatives";
 import Navbar from "@/components/navbar";
-
+import '@/styles/global.css'
 
 export default function Main() {
     return (
-        <div>
+        <div className="flex flex-col min-h-screen">
             <Navbar />
             <Hero />
             <About />
